@@ -2,5 +2,4 @@ It is not the lack of fear which makes a man brave...
 
 But the ability to prevail over said fear...
 
-``/website/``
-[The Portal of Doom](https://kafftum.github.io)
+[``/website/``](https://kafftum.github.io)
