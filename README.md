@@ -1,5 +1,5 @@
 # Welcome to Kafftum's Github:
-### I t&nbsp;&nbsp; i s&nbsp;&nbsp; n o t&nbsp;&nbsp; t h e&nbsp;&nbsp; l a c k&nbsp;&nbsp; o f&nbsp;&nbsp; f e a r&nbsp;&nbsp; w h i c h&nbsp;&nbsp; m a k e s&nbsp;&nbsp;a&nbsp;&nbsp; m a n&nbsp;&nbsp; b r a v e . . .
+### I t&nbsp;&nbsp; i s&nbsp;&nbsp; n o t&nbsp;&nbsp; t h e&nbsp;&nbsp; l a c k&nbsp;&nbsp; o f&nbsp;&nbsp; f e a r&nbsp;&nbsp; w h i c h&nbsp;&nbsp; m a k e s&nbsp;&nbsp; a&nbsp;&nbsp; m a n&nbsp;&nbsp; b r a v e . . .
 
 ### B u t&nbsp;&nbsp; t h e&nbsp;&nbsp; a b i l i t y&nbsp;&nbsp; t o&nbsp;&nbsp; p r e v a i l&nbsp;&nbsp; o v e r&nbsp;&nbsp; s a i d&nbsp;&nbsp; f e a r . . .
 
